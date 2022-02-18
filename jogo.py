@@ -10,13 +10,14 @@ class Game:
         self.vencedor = None
 
     def joga_game(self):
-      while self.vencedor == None:
-          self.joga_round()
+        while self.vencedor == None:
+            self.joga_round()
+            print(f"{self.pontos['A']}-{self.pontos['B']}")
 
     def joga_round(self):
         resultado = random.uniform(0, 1)
 
-        if resultado <= self.probabilidadeA:
+        if resultado < self.probabilidadeA:
             self.ganha_A()
         else:
             self.ganha_B()
@@ -30,7 +31,8 @@ class Game:
         elif self.pontos["A"] == '30':
             self.pontos["A"] = '40'
         elif self.pontos["A"] == '40' or self.pontos["A"] == 'Adv A':
-            self.pontos["A"] = 'G'
+            self.pontos["A"] = 'A wins'
+            self.pontos["B"] = 'A wins'
             self.vencedor = 'A'
         elif self.pontos["A"] == 'Love':
             self.pontos["A"] = '15'
@@ -54,7 +56,8 @@ class Game:
         elif self.pontos["B"] == '30':
             self.pontos["B"] = '40'
         elif self.pontos["B"] == '40' or self.pontos["B"] == 'Adv A':
-            self.pontos["B"] = 'G'
+            self.pontos["A"] = 'B wins'
+            self.pontos["B"] = 'B wins'
             self.vencedor = 'B'
         elif self.pontos["B"] == 'Love':
             self.pontos["B"] = '15'
@@ -84,6 +87,7 @@ class Set:
         while self.gamesJogados < 7:
             game = Game(self.probabilidadeA)
 
+            print(f"\nGame {self.gamesJogados}:")
             game.joga_game()
 
             self.pontos[game.vencedor] += 1            
@@ -109,7 +113,11 @@ class Partida:
         while self.setsJogados < 3:
             set = Set(self.probabilidadeA)
             
+            print(f"Iniciando Set {self.setsJogados}:")
+
             set.joga_set()
+
+            print(f"\n=== Vencedor do set {self.setsJogados}: {set.vencedor}\n")
 
             self.setsGanhos[set.vencedor] += 1
             self.setsJogados += 1
