@@ -91,8 +91,6 @@ class Set:
             print(f"\nGame {self.gamesJogados}:")
             game.joga_game()
 
-            print(self.gamesJogados < 14)
-
             self.pontos[game.vencedor] += 1            
             self.gamesJogados += 1
         
