@@ -8,6 +8,7 @@ class Game:
             "A": "0",
             "B": "0"
         }
+        self.roundsJogados = 0
         self.vencedor = None
 
     def joga_game(self):
@@ -22,6 +23,8 @@ class Game:
             self.ganha_A()
         else:
             self.ganha_B()
+
+        self.roundsJogados += 1
   
     def ganha_A(self):
         if self.pontos["A"] == '0':
@@ -80,6 +83,7 @@ class Set:
             "A": 0,
             "B": 0
         }
+        self.setRounds = 0
         self.gamesJogados = 0
         self.vencedor = None
     
@@ -93,6 +97,7 @@ class Set:
 
             self.pontos[game.vencedor] += 1            
             self.gamesJogados += 1
+            self.setRounds += game.roundsJogados
         
         print(f"\nA: {self.pontos['A']} || B: {self.pontos['B']}")
         # Define o vencedor do set
@@ -109,6 +114,8 @@ class Partida:
             "A": 0,
             "B": 0
         }
+        self.totalGames = 0
+        self.totalRounds = 0
         self.vencedor = None
     
     def joga_partida(self):
@@ -123,6 +130,8 @@ class Partida:
 
             self.setsGanhos[set.vencedor] += 1
             self.setsJogados += 1
+            self.totalGames += set.gamesJogados
+            self.totalRounds += set.setRounds
 
         # Define o vencedor da partida
         if self.setsGanhos["A"] > self.setsGanhos["B"]:
