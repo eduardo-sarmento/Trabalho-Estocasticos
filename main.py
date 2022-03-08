@@ -14,8 +14,8 @@ def resultado(match):
 
 
 def main():
-    n = 10000 # Numero de simulacoes por partida
-    pA1 = 0.85 # Probabilidade de A na partida 1
+    n = 30 # Numero de simulacoes por partida
+    pA1 = 0.75 # Probabilidade de A na partida 1
     pA2 = 0.45 # Probabilidade de A na partida 2
     
     pA1_Vencedor = []

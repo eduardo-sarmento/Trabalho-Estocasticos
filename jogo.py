@@ -59,13 +59,13 @@ class Game:
             self.pontos["B"] = '30'
         elif self.pontos["B"] == '30':
             self.pontos["B"] = '40'
-        elif self.pontos["B"] == '40' or self.pontos["B"] == 'Adv A':
+        elif self.pontos["B"] == '40' or self.pontos["B"] == 'Adv B':
             self.pontos["A"] = 'B wins'
             self.pontos["B"] = 'B wins'
             self.vencedor = 'B'
         elif self.pontos["B"] == 'Love':
             self.pontos["B"] = '15'
-        elif (self.pontos["B"] == '15' and self.pontos["A"] == '30') or self.pontos["A"] == 'Adv B':
+        elif (self.pontos["B"] == '15' and self.pontos["A"] == '30') or self.pontos["A"] == 'Adv A':
             self.pontos["A"] = 'Deuce'
             self.pontos["B"] = 'Deuce'
         elif self.pontos["B"] == '15' and self.pontos["A"] == '40':
