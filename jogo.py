@@ -1,79 +1,34 @@
 import random
 from utils import moduloDe
+from markov import markovWalk
 
 class Game:
     def __init__(self, probabilidadeA):
         self.probabilidadeA = probabilidadeA
-        self.pontos = {
-            "A": "0",
-            "B": "0"
-        }
         self.roundsJogados = 0
         self.vencedor = None
+        self.markovState = "S0" # Estado inicial da cadeia de markov
 
     def joga_game(self):
-        while self.vencedor == None:
+        # Enquanto o estado da cadeia de markov nao apontar um vencedor joga um novo round
+        while self.markovState != "SWA" and self.markovState != "SWB":
             self.joga_round()
-            print(f"{self.pontos['A']}-{self.pontos['B']}")
+
+        # Determina vencedor baseado no estado de parada
+        if self.markovState == "SWA":
+            self.vencedor = "A"
+        else:
+            self.vencedor = "B"
 
     def joga_round(self):
         resultado = random.uniform(0, 1)
 
         if resultado < self.probabilidadeA:
-            self.ganha_A()
+            self.markovState = markovWalk(currentState=self.markovState, diretion=0)
         else:
-            self.ganha_B()
+            self.markovState = markovWalk(currentState=self.markovState, diretion=1)
 
         self.roundsJogados += 1
-  
-    def ganha_A(self):
-        if self.pontos["A"] == '0':
-            self.pontos["A"] = '15'
-            self.pontos["B"] = 'Love'
-        elif self.pontos["A"] == '15' and self.pontos["B"] != '30' and self.pontos["B"] != '40':
-            self.pontos["A"] = '30'
-        elif self.pontos["A"] == '30':
-            self.pontos["A"] = '40'
-        elif self.pontos["A"] == '40' or self.pontos["A"] == 'Adv A':
-            self.pontos["A"] = 'A wins'
-            self.pontos["B"] = 'A wins'
-            self.vencedor = 'A'
-        elif self.pontos["A"] == 'Love':
-            self.pontos["A"] = '15'
-        elif (self.pontos["A"] == '15' and self.pontos["B"] == '30') or self.pontos["A"] == 'Adv B':
-            self.pontos["A"] = 'Deuce'
-            self.pontos["B"] = 'Deuce'
-        elif self.pontos["A"] == '15' and self.pontos["B"] == '40':
-            self.pontos["A"] = 'Adv B'
-            self.pontos["B"] = 'Adv B'
-        elif self.pontos["A"] == 'Deuce':
-            self.pontos["A"] = 'Adv A'
-            self.pontos["B"] = 'Adv A'
-
-
-    def ganha_B(self):
-        if self.pontos["B"] == '0':
-            self.pontos["B"] = '15'
-            self.pontos["A"] = 'Love'
-        elif self.pontos["B"] == '15' and self.pontos["A"] != '30' and self.pontos["A"] != '40':
-            self.pontos["B"] = '30'
-        elif self.pontos["B"] == '30':
-            self.pontos["B"] = '40'
-        elif self.pontos["B"] == '40' or self.pontos["B"] == 'Adv B':
-            self.pontos["A"] = 'B wins'
-            self.pontos["B"] = 'B wins'
-            self.vencedor = 'B'
-        elif self.pontos["B"] == 'Love':
-            self.pontos["B"] = '15'
-        elif (self.pontos["B"] == '15' and self.pontos["A"] == '30') or self.pontos["A"] == 'Adv A':
-            self.pontos["A"] = 'Deuce'
-            self.pontos["B"] = 'Deuce'
-        elif self.pontos["B"] == '15' and self.pontos["A"] == '40':
-            self.pontos["A"] = 'Adv A'
-            self.pontos["B"] = 'Adv A'
-        elif self.pontos["B"] == 'Deuce':
-            self.pontos["A"] = 'Adv B'
-            self.pontos["B"] = 'Adv B'
 
 
 class Set:
