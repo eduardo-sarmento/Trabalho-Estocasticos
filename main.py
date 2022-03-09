@@ -15,7 +15,7 @@ def resultado(match):
 
 
 def main():
-    n = 10000 # Numero de simulacoes por partida
+    n = 30 # Numero de simulacoes por partida
     pA1 = 0.70 # Probabilidade de A na partida 1
     pA2 = 0.45 # Probabilidade de A na partida 2
     
@@ -92,8 +92,17 @@ def main():
     pA2_dt.columns = ["Vencedor","Pontos Set A","Pontos Set B", "Games", "Rounds"]
 
 
+    print("Resultados de 3 jogos escolhidos aleatoriamente da partida 1")
+    print(pA1_dt.sample(3).describe())
+    print("Resultados de 3 jogos escolhidos aleatoriamente da partida 2")
+    print(pA2_dt.sample(3).describe())
 
-    print(pA1_dt.describe())
-    print(pA2_dt.describe())
+    pA1_partial_dt = pA1_dt.sample(10)
+    pA2_partial_dt = pA2_dt.sample(10)
+    
+    print("Resultados de 10 jogos escolhidos aleatoriamente da partida 1")
+    print(pA1_partial_dt.describe())
+    print("Resultados de 10 jogos escolhidos aleatoriamente da partida 2")
+    print(pA2_partial_dt.describe())
 if __name__ == "__main__":
     main()

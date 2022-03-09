@@ -23,7 +23,7 @@ class Game:
     def joga_round(self):
         resultado = random.uniform(0, 1)
 
-        if resultado < self.probabilidadeA:
+        if resultado <= self.probabilidadeA:
             self.markovState = markovWalk(currentState=self.markovState, diretion=0)
         else:
             self.markovState = markovWalk(currentState=self.markovState, diretion=1)
