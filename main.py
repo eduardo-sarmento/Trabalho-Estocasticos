@@ -1,4 +1,5 @@
 from jogo import Partida
+from jogo import Game
 import sys
 import pandas as pd
 
@@ -14,8 +15,8 @@ def resultado(match):
 
 
 def main():
-    n = 30 # Numero de simulacoes por partida
-    pA1 = 0.75 # Probabilidade de A na partida 1
+    n = 10000 # Numero de simulacoes por partida
+    pA1 = 0.70 # Probabilidade de A na partida 1
     pA2 = 0.45 # Probabilidade de A na partida 2
     
     pA1_Vencedor = []
@@ -33,13 +34,12 @@ def main():
     orig_stdout = sys.stdout
 
     # Abre arquivo da partida 1 e redireciona os prints
-    file1 = open('partida1.txt', 'w')
-    sys.stdout = file1
+    file1_human_readable = open('partida1_human_readable.txt', 'w')
+    sys.stdout = file1_human_readable
 
     # Partida 1: o Jogador A é muito melhor do que o Jogador B
     for i in range(n):
         print(f"-- SIMULACAO {i+1}")
-
         match = Partida(pA1) 
         match.joga_partida()
         
@@ -52,10 +52,15 @@ def main():
         pA1_Set_B.append(match.setsGanhos['B'])
         pA1_Games.append(match.totalGames)
         pA1_Rounds.append(match.totalRounds)
-
+    file1_human_readable.close()
+    file1_machine_readable = open('partida1_machine_readable.txt', 'w')
+    sys.stdout = file1_machine_readable
+    for i in range(0,n):
+        print(f"{pA1_Vencedor[i]} {pA1_Set_A[i]} {pA1_Set_B[i]} {pA1_Games[i]} {pA1_Rounds[i]}")
+    file1_machine_readable.close()
     # Abre arquivo da partida 2 e redireciona os prints
-    file2 = open('partida2.txt', 'w')
-    sys.stdout = file2
+    file2_human_readable = open('partida2_human_readable.txt', 'w')
+    sys.stdout = file2_human_readable
 
     # Partida 2: os jogadores possuem nível técnico equivalente
     for i in range(0, n):
@@ -74,14 +79,20 @@ def main():
         pA2_Set_B.append(match.setsGanhos['B'])
         pA2_Games.append(match.totalGames)
         pA2_Rounds.append(match.totalRounds)
-    pA1_dict = {"Vencedor" : pA1_Vencedor,"Set A" : pA1_Set_A,"Set B" : pA1_Set_B, "Games": pA1_Games, "Rounds" : pA1_Rounds}
-    pA2_dict = {"Vencedor" : pA2_Vencedor,"Set A" : pA2_Set_A,"Set B" : pA2_Set_B, "Games": pA2_Games, "Rounds" : pA2_Rounds}
-    pA1_dt = pd.DataFrame(pA1_dict)
-    pA2_dt = pd.DataFrame(pA2_dict)
-
-    file1.close()
-    file2.close()
+    file2_human_readable.close()
+    file2_machine_readable = open('partida2_machine_readable.txt', 'w')
+    sys.stdout = file2_machine_readable
+    for i in range(0,n):
+        print(f"{pA2_Vencedor[i]} {pA2_Set_A[i]} {pA2_Set_B[i]} {pA2_Games[i]} {pA2_Rounds[i]}")
+    file2_machine_readable.close()
     sys.stdout = orig_stdout
+    pA1_dt = pd.read_csv('partida1_machine_readable.txt', sep=" ", header=None)
+    pA1_dt.columns = ["Vencedor","Pontos Set A","Pontos Set B", "Games", "Rounds"]
+    pA2_dt = pd.read_csv('partida2_machine_readable.txt', sep=" ", header=None)
+    pA2_dt.columns = ["Vencedor","Pontos Set A","Pontos Set B", "Games", "Rounds"]
+
+
+
     print(pA1_dt.describe())
     print(pA2_dt.describe())
 if __name__ == "__main__":
