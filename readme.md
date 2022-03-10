@@ -73,9 +73,9 @@ Neste trabalho nos foi dado o objetivo de simular diferentes partidas de tênis 
 
 <h3>Execução</h3>
 <ul>
-    <li>André Altoé Santiago [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faakit)</li>
-    <li>Eduardo Montagner de Moraes Sarmento [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardo-sarmento)</li>
-    <li>Elciney Mendes Rangel Junior [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elcineyjr)</li>
+    <li><a href="https://github.com/faakit/">André Altoé Santiago</a></li>
+    <li><a href="https://github.com/eduardo-sarmento/">Eduardo Montagner de Moraes Sarmento</a></li>
+    <li><a href="https://github.com/Elcineyjr/">Elciney Mendes Rangel Junior</a></li>
 </ul>
 
 <h3>Base Teórica</h3>
