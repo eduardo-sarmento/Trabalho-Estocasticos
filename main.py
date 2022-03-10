@@ -34,7 +34,7 @@ def main():
     orig_stdout = sys.stdout
 
     # Abre arquivo da partida 1 e redireciona os prints
-    file1_human_readable = open('partida1_human_readable.txt', 'w')
+    file1_human_readable = open('logs/partida1_human_readable.txt', 'w')
     sys.stdout = file1_human_readable
 
     # Partida 1: o Jogador A é muito melhor do que o Jogador B
@@ -53,13 +53,13 @@ def main():
         pA1_Games.append(match.totalGames)
         pA1_Rounds.append(match.totalRounds)
     file1_human_readable.close()
-    file1_machine_readable = open('partida1_machine_readable.txt', 'w')
+    file1_machine_readable = open('logs/partida1_machine_readable.txt', 'w')
     sys.stdout = file1_machine_readable
     for i in range(0,n):
         print(f"{pA1_Vencedor[i]} {pA1_Set_A[i]} {pA1_Set_B[i]} {pA1_Games[i]} {pA1_Rounds[i]}")
     file1_machine_readable.close()
     # Abre arquivo da partida 2 e redireciona os prints
-    file2_human_readable = open('partida2_human_readable.txt', 'w')
+    file2_human_readable = open('logs/partida2_human_readable.txt', 'w')
     sys.stdout = file2_human_readable
 
     # Partida 2: os jogadores possuem nível técnico equivalente
@@ -80,29 +80,34 @@ def main():
         pA2_Games.append(match.totalGames)
         pA2_Rounds.append(match.totalRounds)
     file2_human_readable.close()
-    file2_machine_readable = open('partida2_machine_readable.txt', 'w')
+    file2_machine_readable = open('logs/partida2_machine_readable.txt', 'w')
     sys.stdout = file2_machine_readable
     for i in range(0,n):
         print(f"{pA2_Vencedor[i]} {pA2_Set_A[i]} {pA2_Set_B[i]} {pA2_Games[i]} {pA2_Rounds[i]}")
     file2_machine_readable.close()
     sys.stdout = orig_stdout
-    pA1_dt = pd.read_csv('partida1_machine_readable.txt', sep=" ", header=None)
+    pA1_dt = pd.read_csv('logs/partida1_machine_readable.txt', sep=" ", header=None)
     pA1_dt.columns = ["Vencedor","Pontos Set A","Pontos Set B", "Games", "Rounds"]
-    pA2_dt = pd.read_csv('partida2_machine_readable.txt', sep=" ", header=None)
+    pA2_dt = pd.read_csv('logs/partida2_machine_readable.txt', sep=" ", header=None)
     pA2_dt.columns = ["Vencedor","Pontos Set A","Pontos Set B", "Games", "Rounds"]
 
 
-    print("Resultados de 3 jogos escolhidos aleatoriamente da partida 1")
+    print("\nResultados gerais da partida 1\n")
+    print(pA1_dt.describe())
+    print("\nResultados gerais da partida 2\n")
+    print(pA2_dt.describe())
+
+    print("\nResultados de 3 jogos escolhidos aleatoriamente da partida 1\n")
     print(pA1_dt.sample(3).describe())
-    print("Resultados de 3 jogos escolhidos aleatoriamente da partida 2")
+    print("\nResultados de 3 jogos escolhidos aleatoriamente da partida 2\n")
     print(pA2_dt.sample(3).describe())
 
     pA1_partial_dt = pA1_dt.sample(10)
     pA2_partial_dt = pA2_dt.sample(10)
     
-    print("Resultados de 10 jogos escolhidos aleatoriamente da partida 1")
+    print("\nResultados de 10 jogos escolhidos aleatoriamente da partida 1\n")
     print(pA1_partial_dt.describe())
-    print("Resultados de 10 jogos escolhidos aleatoriamente da partida 2")
+    print("\nResultados de 10 jogos escolhidos aleatoriamente da partida 2\n")
     print(pA2_partial_dt.describe())
 if __name__ == "__main__":
     main()
