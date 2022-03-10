@@ -103,16 +103,37 @@ Neste trabalho nos foi dado o objetivo de simular diferentes partidas de tênis 
 <p>
   Dado que deixamos as probabilidades como:
   <ul>
-  <li><strong>Partida 1:</strong> A=70% e B=30%</li>
-  <li><strong>Partida 2:</strong> A=45% e B=55%</li>
-</ul>
+    <li><strong>Partida 1:</strong> A=70% e B=30%</li>
+    <li><strong>Partida 2:</strong> A=45% e B=55%</li>
+  </ul>
 </p>
+
+<p>
+  As colunas da tabela de dados obtidas significam
+  <ul>
+    <li><strong>Vencedor:</strong> Se A foi vencedor da partida.</li>
+    <li><strong>Pontos Set A:</strong> Quantidade de sets vencidos por A.</li>
+    <li><strong>Pontos Set B:</strong> Quantidade de sets vencidos por B.</li>
+    <li><strong>Games:</strong> Total de games jogados na partida.</li>
+    <li><strong>Rounds:</strong> Total de rounds jogados na partida.</li>
+  </ul>
+</p>
+
+<p>
+De forma geral, os dados foram:
+</p>
+
+![image](https://user-images.githubusercontent.com/22310158/157764714-c594dced-69e4-401e-8bf0-df635bad0592.png)
+
 <p>
    Respondendo às perguntas feitas:
 </p>
 <ul>
   <li><strong>Qual a probabilidade do Jogador A/B vencerem as Partidas 1 e a Partidas 2?</strong></li>
-  <div>Após rodar 30 simulações para cada partida e pegar 3 simulações aleatórias, obtivemos que a probabilidade de A ganhar na partida 1 é de 100%, porém na partida 2 a probabilidade ficou cerca de</div>
+  
+  ![image](https://user-images.githubusercontent.com/22310158/157765299-a1b0fadb-9396-4925-99ad-ed7cc30c23d6.png)
+
+  <div>Após rodar 30 simulações para cada partida e pegar 3 simulações aleatórias, obtivemos que a probabilidade de A ganhar na partida 1 é de 100%, porém na partida 2 a probabilidade de A vencer é de 0%</div>
   </br>
   
   <li><strong>Qual a distribuição do número de sets, games e pontos nas Partidas 1 e 2?</strong> </li>
@@ -120,7 +141,10 @@ Neste trabalho nos foi dado o objetivo de simular diferentes partidas de tênis 
   </br>
   
   <li><strong>Selecione aleatoriamente, com distribuição uniforme, 10 simulações dentre as n existentes em seus datasets originais. Refaça as 2 análises anteriores e explique as diferenças e semelhanças entre os resultados obtidos.</strong> </li>
-  <div></div>
+
+  ![image](https://user-images.githubusercontent.com/22310158/157765526-7f086141-949b-4767-af7a-de4b0b533dd9.png)
+  
+  <div>Podemos perceber que ao aumentar o tamanho do nosso espaço amostral de 3 para 10, obtivemos um resultado diferente para a probabilidade de A vencer na partida 2, que coincide com o resultado geral obtido para a partida 2.</div>
   </br>
 </ul>
 
