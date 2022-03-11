@@ -1,0 +1,7161 @@
+-- SIMULACAO 1
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+A: 2 || B: 6
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 5:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+A: 1 || B: 6
+
+=== Vencedor do set 2: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  0 - 2
+======= Todal de Games jogados na partida: 15
+======= Todal de Rounds jogados na partida: 87
+-- SIMULACAO 2
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 2:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+A: 2 || B: 6
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 7:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+A: 2 || B: 6
+
+=== Vencedor do set 2: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  0 - 2
+======= Todal de Games jogados na partida: 16
+======= Todal de Rounds jogados na partida: 95
+-- SIMULACAO 3
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+A: 0 || B: 6
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 1:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 6:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. A
+A wins
+
+A: 6 || B: 1
+
+=== Vencedor do set 2: A
+
+Iniciando Set 3:
+
+Game 0:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 2:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 7:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 8:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 9:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+A: 4 || B: 6
+
+=== Vencedor do set 3: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  1 - 2
+======= Todal de Games jogados na partida: 23
+======= Todal de Rounds jogados na partida: 145
+-- SIMULACAO 4
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 2:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 7:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 8:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 9:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+A: 4 || B: 6
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 7:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 8:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 9:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+A: 4 || B: 6
+
+=== Vencedor do set 2: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  0 - 2
+======= Todal de Games jogados na partida: 20
+======= Todal de Rounds jogados na partida: 134
+-- SIMULACAO 5
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 7:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 8:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+A: 3 || B: 6
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 7:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 8:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 9:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 10:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 11:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 12:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. B
+B wins
+
+A: 5 || B: 8
+
+=== Vencedor do set 2: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  0 - 2
+======= Todal de Games jogados na partida: 22
+======= Todal de Rounds jogados na partida: 171
+-- SIMULACAO 6
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 5:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 7:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 8:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 9:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+A: 6 || B: 4
+
+=== Vencedor do set 1: A
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 7:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 8:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 9:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+A: 6 || B: 4
+
+=== Vencedor do set 2: A
+
+======= Vencedor da partida: A
+======= Resultado da partida (A - B):  2 - 0
+======= Todal de Games jogados na partida: 20
+======= Todal de Rounds jogados na partida: 149
+-- SIMULACAO 7
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 7:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+A: 2 || B: 6
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 7:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 8:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 9:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+A: 4 || B: 6
+
+=== Vencedor do set 2: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  0 - 2
+======= Todal de Games jogados na partida: 18
+======= Todal de Rounds jogados na partida: 119
+-- SIMULACAO 8
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 6:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 8:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 9:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 10:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 11:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+Game 12:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+B wins
+
+A: 7 || B: 6
+
+=== Vencedor do set 1: A
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 7:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 8:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 9:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 10:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 11:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 12:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+A: 6 || B: 7
+
+=== Vencedor do set 2: B
+
+Iniciando Set 3:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 4:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 7:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 8:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 9:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+A: 4 || B: 6
+
+=== Vencedor do set 3: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  1 - 2
+======= Todal de Games jogados na partida: 36
+======= Todal de Rounds jogados na partida: 226
+-- SIMULACAO 9
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+Game 7:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 8:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+A: 3 || B: 6
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 8:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 9:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 10:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 11:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 12:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+A: 6 || B: 7
+
+=== Vencedor do set 2: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  0 - 2
+======= Todal de Games jogados na partida: 22
+======= Todal de Rounds jogados na partida: 146
+-- SIMULACAO 10
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 8:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 9:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 10:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 11:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 12:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+A: 6 || B: 7
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 1:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+A: 2 || B: 6
+
+=== Vencedor do set 2: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  0 - 2
+======= Todal de Games jogados na partida: 21
+======= Todal de Rounds jogados na partida: 155
+-- SIMULACAO 11
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 7:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+A: 2 || B: 6
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 8:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+B wins
+
+A: 3 || B: 6
+
+=== Vencedor do set 2: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  0 - 2
+======= Todal de Games jogados na partida: 17
+======= Todal de Rounds jogados na partida: 128
+-- SIMULACAO 12
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 3:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 5:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 8:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 9:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+A: 4 || B: 6
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 6:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 7:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+Game 8:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 9:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 10:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 11:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+B wins
+
+Game 12:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+A: 5 || B: 8
+
+=== Vencedor do set 2: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  0 - 2
+======= Todal de Games jogados na partida: 23
+======= Todal de Rounds jogados na partida: 157
+-- SIMULACAO 13
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 7:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 8:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 9:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+A: 4 || B: 6
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 6:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 7:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 8:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 9:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 10:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 11:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 12:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+A: 5 || B: 8
+
+=== Vencedor do set 2: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  0 - 2
+======= Todal de Games jogados na partida: 23
+======= Todal de Rounds jogados na partida: 169
+-- SIMULACAO 14
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+Game 3:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 5:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 8:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 9:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 10:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 11:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 12:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+A: 6 || B: 7
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 3:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 5:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 7:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 8:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+A: 6 || B: 3
+
+=== Vencedor do set 2: A
+
+Iniciando Set 3:
+
+Game 0:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 6:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 7:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. A
+A wins
+
+A: 6 || B: 2
+
+=== Vencedor do set 3: A
+
+======= Vencedor da partida: A
+======= Resultado da partida (A - B):  2 - 1
+======= Todal de Games jogados na partida: 30
+======= Todal de Rounds jogados na partida: 179
+-- SIMULACAO 15
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+A: 6 || B: 1
+
+=== Vencedor do set 1: A
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+A: 1 || B: 6
+
+=== Vencedor do set 2: B
+
+Iniciando Set 3:
+
+Game 0:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+A: 2 || B: 6
+
+=== Vencedor do set 3: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  1 - 2
+======= Todal de Games jogados na partida: 22
+======= Todal de Rounds jogados na partida: 138
+-- SIMULACAO 16
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 7:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 8:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+A: 3 || B: 6
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 7:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+B wins
+
+A: 2 || B: 6
+
+=== Vencedor do set 2: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  0 - 2
+======= Todal de Games jogados na partida: 17
+======= Todal de Rounds jogados na partida: 124
+-- SIMULACAO 17
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 7:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 8:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 9:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+A: 6 || B: 4
+
+=== Vencedor do set 1: A
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+A: 2 || B: 6
+
+=== Vencedor do set 2: B
+
+Iniciando Set 3:
+
+Game 0:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+A: 1 || B: 6
+
+=== Vencedor do set 3: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  1 - 2
+======= Todal de Games jogados na partida: 25
+======= Todal de Rounds jogados na partida: 188
+-- SIMULACAO 18
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 3:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 8:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+Game 9:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+A: 6 || B: 4
+
+=== Vencedor do set 1: A
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 7:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 8:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 9:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 10:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 11:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 12:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+B wins
+
+A: 6 || B: 7
+
+=== Vencedor do set 2: B
+
+Iniciando Set 3:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 7:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+A: 2 || B: 6
+
+=== Vencedor do set 3: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  1 - 2
+======= Todal de Games jogados na partida: 31
+======= Todal de Rounds jogados na partida: 202
+-- SIMULACAO 19
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 7:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 8:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+A: 6 || B: 3
+
+=== Vencedor do set 1: A
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 7:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+A: 2 || B: 6
+
+=== Vencedor do set 2: B
+
+Iniciando Set 3:
+
+Game 0:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 8:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+Game 9:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. B
+B wins
+
+A: 4 || B: 6
+
+=== Vencedor do set 3: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  1 - 2
+======= Todal de Games jogados na partida: 27
+======= Todal de Rounds jogados na partida: 165
+-- SIMULACAO 20
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+Adv. A
+A wins
+
+Game 3:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+Game 6:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 7:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 8:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+Adv. A
+A wins
+
+Game 9:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 10:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 11:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 12:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+A: 5 || B: 8
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+Game 2:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 8:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+A: 6 || B: 3
+
+=== Vencedor do set 2: A
+
+Iniciando Set 3:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 7:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 8:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 9:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+A: 4 || B: 6
+
+=== Vencedor do set 3: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  1 - 2
+======= Todal de Games jogados na partida: 32
+======= Todal de Rounds jogados na partida: 220
+-- SIMULACAO 21
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 7:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 8:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 9:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+A: 6 || B: 4
+
+=== Vencedor do set 1: A
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+A: 1 || B: 6
+
+=== Vencedor do set 2: B
+
+Iniciando Set 3:
+
+Game 0:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 6:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+A: 2 || B: 6
+
+=== Vencedor do set 3: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  1 - 2
+======= Todal de Games jogados na partida: 25
+======= Todal de Rounds jogados na partida: 183
+-- SIMULACAO 22
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 7:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+Game 8:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+Game 9:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 10:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 11:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 12:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+A: 6 || B: 7
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 8:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. B
+B wins
+
+A: 3 || B: 6
+
+=== Vencedor do set 2: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  0 - 2
+======= Todal de Games jogados na partida: 22
+======= Todal de Rounds jogados na partida: 136
+-- SIMULACAO 23
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 7:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 8:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 9:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 10:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 11:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 12:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+A: 6 || B: 7
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+Game 2:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 3:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+A: 6 || B: 1
+
+=== Vencedor do set 2: A
+
+Iniciando Set 3:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 3:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 7:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 8:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 9:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+A: 6 || B: 4
+
+=== Vencedor do set 3: A
+
+======= Vencedor da partida: A
+======= Resultado da partida (A - B):  2 - 1
+======= Todal de Games jogados na partida: 30
+======= Todal de Rounds jogados na partida: 202
+-- SIMULACAO 24
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+A: 2 || B: 6
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+A: 1 || B: 6
+
+=== Vencedor do set 2: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  0 - 2
+======= Todal de Games jogados na partida: 15
+======= Todal de Rounds jogados na partida: 90
+-- SIMULACAO 25
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+A: 0 || B: 6
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 3:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 4:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 6:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 7:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 8:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 9:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+A: 6 || B: 4
+
+=== Vencedor do set 2: A
+
+Iniciando Set 3:
+
+Game 0:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 3:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+A: 6 || B: 1
+
+=== Vencedor do set 3: A
+
+======= Vencedor da partida: A
+======= Resultado da partida (A - B):  2 - 1
+======= Todal de Games jogados na partida: 23
+======= Todal de Rounds jogados na partida: 147
+-- SIMULACAO 26
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 7:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+A: 2 || B: 6
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 6:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 7:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+A: 2 || B: 6
+
+=== Vencedor do set 2: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  0 - 2
+======= Todal de Games jogados na partida: 16
+======= Todal de Rounds jogados na partida: 114
+-- SIMULACAO 27
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 3:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 7:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+Adv. A
+A wins
+
+A: 6 || B: 2
+
+=== Vencedor do set 1: A
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+Adv. A
+A wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 6:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 7:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 8:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+A wins
+
+A: 6 || B: 3
+
+=== Vencedor do set 2: A
+
+======= Vencedor da partida: A
+======= Resultado da partida (A - B):  2 - 0
+======= Todal de Games jogados na partida: 17
+======= Todal de Rounds jogados na partida: 104
+-- SIMULACAO 28
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+A: 1 || B: 6
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 3:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+B wins
+
+Game 8:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 9:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 10:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 11:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 12:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+A: 5 || B: 8
+
+=== Vencedor do set 2: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  0 - 2
+======= Todal de Games jogados na partida: 20
+======= Todal de Rounds jogados na partida: 146
+-- SIMULACAO 29
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 7:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 8:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. B
+B wins
+
+A: 3 || B: 6
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 7:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 8:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 9:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+A: 4 || B: 6
+
+=== Vencedor do set 2: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  0 - 2
+======= Todal de Games jogados na partida: 19
+======= Todal de Rounds jogados na partida: 118
+-- SIMULACAO 30
+Iniciando Set 1:
+
+Game 0:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 1:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+B wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 3:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+
+Game 5:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+Love - 15
+15 - 15
+30 - 15
+Deuce
+Adv. A
+A wins
+
+Game 7:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 8:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. B
+B wins
+
+Game 9:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+A: 4 || B: 6
+
+=== Vencedor do set 1: B
+
+Iniciando Set 2:
+
+Game 0:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+30 - 15
+40 - 15
+Adv. A
+A wins
+
+Game 2:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 3:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+
+Game 5:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+Deuce
+Adv. A
+A wins
+
+Game 6:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 7:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 8:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+A wins
+
+Game 9:
+0 - 0
+Love - 15
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 10:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+15 - 40
+Adv. B
+Deuce
+Adv. A
+A wins
+
+Game 11:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+B wins
+
+Game 12:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+A wins
+
+A: 7 || B: 6
+
+=== Vencedor do set 2: A
+
+Iniciando Set 3:
+
+Game 0:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 1:
+0 - 0
+15 - Love
+15 - 15
+15 - 30
+15 - 40
+B wins
+
+Game 2:
+0 - 0
+Love - 15
+Love - 30
+15 - 30
+15 - 40
+Adv. B
+B wins
+
+Game 3:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+40 - 15
+Adv. A
+Deuce
+Adv. B
+B wins
+
+Game 4:
+0 - 0
+Love - 15
+Love - 30
+Love - 40
+B wins
+
+Game 5:
+0 - 0
+15 - Love
+30 - Love
+40 - Love
+40 - 15
+A wins
+
+Game 6:
+0 - 0
+15 - Love
+30 - Love
+30 - 15
+Deuce
+Adv. B
+B wins
+
+A: 1 || B: 6
+
+=== Vencedor do set 3: B
+
+======= Vencedor da partida: B
+======= Resultado da partida (A - B):  1 - 2
+======= Todal de Games jogados na partida: 30
+======= Todal de Rounds jogados na partida: 211
