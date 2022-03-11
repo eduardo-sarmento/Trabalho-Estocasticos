@@ -133,18 +133,27 @@ De forma geral, os dados foram:
   
   ![image](https://user-images.githubusercontent.com/22310158/157765299-a1b0fadb-9396-4925-99ad-ed7cc30c23d6.png)
 
-  <div>Após rodar 30 simulações para cada partida e pegar 3 simulações aleatórias, obtivemos que na média a probabilidade de A ganhar na partida 1 é de 100%, com desvio padrão de 0, porém na partida 2 na média a probabilidade de A vencer é de 0%, com desvio padrão de 0 tambem.Obtivemos também que na partida 1 o jogador A ganha 2 sets em todas as partidas que joga e o B não ganha nenhum set, com desvio padrão de 0 para ambos, enquanto na partida 2 A ganha na média 0.66 sets, com desvio padrão de 0,57, ou seja ha bastante variancia nos resultados mas os sets ganhos por A nunca passam de 1, pois B sempre ganha 2 sets em todos os jogos e acaba vencendo a partida sempre. Observamos tambem que os sets e games da partida 1 são em média menores que os da partida 2, resultado esperado pelo fato da partida 2 ser mais equilibrada que a 1, e portanto, mais disputada, vemos isso nas colunas de games e rounds totais em que na partida 1 obitvemos em média 13,33 e 74,00 games e rounds em cada set, com desvios padrões de 1,52 para games, o que mostra que houve baixa variancia no numero de total de games em cada set, e 15,13 de desvio padrão para rounds totais, o que mostra uma alta variancia, sendo assim vemos que existem casos na partita 1 que os games por sorte tem mais rounds, mas que mesmo assim o jogador A costuma a vencer os games mesmo quando eles são maiores, visto pela alta variancia no numero de rounds mas a baixa variancia no numero de games. Enquanto isso na partida 2 vemos que o numero de games totais na média foi maior que na partida 1, sendo agora 23,33 games no total por partida e o numero de rounds tambem aumentou, 166,66 rounds por partida, mais que o dobro da partida 1, mas a relação dos desvios padrões continuou a mesma da partida 1, desvio padrão baixo pra games e alto pra rounds, mostrando a mesma coisa que foi vista na partida 1</div>
+  <div>Após rodar 30 simulações para cada partida e pegar 3 simulações aleatórias, obtivemos que em média a probabilidade de A ganhar na partida 1 é de 100%, com desvio padrão de 0, porém na partida 2 em média a probabilidade de A vencer é de 0%, com desvio padrão de 0 também.</div>
   </br>
   
   <li><strong>Qual a distribuição do número de sets, games e pontos nas Partidas 1 e 2?</strong> </li>
-  <div></div>
+  <div>Na partida 1 o jogador A ganha 2 sets em todas as partidas que joga e o B não ganha nenhum set, com desvio padrão de 0 para ambos. Enquanto na partida 2 A ganha em média 0.66 sets, com desvio padrão de 0,57, ou seja, há bastante variância nos resultados, mas os sets ganhos por A nunca passam de 1 pois B sempre ganha 2 sets em todos os jogos e acaba vencendo a partida sempre.
+  </div>
+  </br>
+  <div>
+  Observamos também que os sets e games da partida 1 são em média menores que os da partida 2, resultado esperado pelo fato da partida 2 ser mais equilibrada que a 1, e portanto, mais disputada. Vemos isso nas colunas de games e rounds totais em que na partida 1 obtivemos em média 13,33 games e 74,00 rounds por partida, com desvios padrões de 1,52 para games, o que mostra que houve baixa variância no número total de games por partida, e 15,13 de desvio padrão para rounds totais, o que mostra uma alta variância. Sendo assim, vemos que existem casos na partita 1 que os games por sorte tem mais rounds, mas que mesmo assim o jogador A vence cada game, visto pela alta variância no numero de rounds mas a baixa variância no numero de games.
+  </div>
+  </br>
+  <div>
+   Enquanto isso na partida 2 vemos que o numero de games totais em média foi maior que na partida 1, sendo agora 23,33 games no total por partida e o número de rounds também aumentou, 166,66 rounds por partida, mais que o dobro da partida 1. Porém, a relação dos desvios padrões continuou a mesma em ambas partidas, tendo desvio padrão baixo pra games e alto pra rounds, mostrando o mesmo que foi visto na partida 1.
+  </div>
   </br>
   
   <li><strong>Selecione aleatoriamente, com distribuição uniforme, 10 simulações dentre as n existentes em seus datasets originais. Refaça as 2 análises anteriores e explique as diferenças e semelhanças entre os resultados obtidos.</strong> </li>
 
   ![image](https://user-images.githubusercontent.com/22310158/157765526-7f086141-949b-4767-af7a-de4b0b533dd9.png)
   
-  <div>Podemos perceber que ao aumentar o tamanho do nosso espaço amostral de 3 para 10, obtivemos um resultado diferente para a probabilidade de A vencer na partida 2, agora A vence em média 10% dos jogos, ainda longe dos 45% que colocamos mas mais perto do que no último teste, mas os resultados da primeira partida continuaram os mesmos. Também vemos que as relações de numero de sets ganhos por cada jogador, numero de games e numero de rounds totais na média continuaram as mesmas, aumentando ligeiramente em todos os casos, a mesma coisa aconteceu com os desvios padrões.</div>
+  <div>Podemos perceber que ao aumentar o tamanho do nosso espaço amostral de 3 para 10, obtivemos um resultado diferente para a probabilidade de A vencer na partida 2, agora A vence em média 10% dos jogos, ainda longe dos 45% que colocamos mas mais perto do que no último teste. Os resultados da primeira partida continuaram os mesmos. Também vemos que as relações de número de sets ganhos por cada jogador, número de games e número de rounds totais na média continuaram as mesmas, aumentando ligeiramente em todos os casos, a mesma coisa aconteceu com os desvios padrões.</div>
   </br>
 </ul>
 
@@ -152,7 +161,9 @@ De forma geral, os dados foram:
 
 <h2 id="conclusoes"> :pencil: Conclusões</h2>
 
-A partir dos dados obtivos pudemos perceber que por mais que seja pequena a vantagem do jogador durante <strong>cada round</strong> de um game, essa vantagem vai crescendo exponencialmente no cenário geral de uma partida, ou seja, com diversos rounds sendo jogados. Traduzindo-se em um grande percentual de vitórias pro jogador com a vantagem. Porém vemos que essa probabilidade se traduz da maneira esperada para o numero de rounds, games e sets jogados, quando os dois jogadores tem habilidades similares o numero de games e rounds jogados na média se torna maior.
+A partir dos dados obtivos pudemos perceber que por mais que seja pequena a vantagem do jogador durante <strong>cada round</strong> de um game, essa vantagem vai crescendo exponencialmente no cenário geral de uma partida, ou seja, com diversos rounds sendo jogados. Traduzindo-se em um grande percentual de vitórias pro jogador com a vantagem.
+
+Vemos também que essa probabilidade se traduz da maneira esperada para o número de rounds, games e sets jogados, visto que quando os dois jogadores tem habilidades similares o número de games e rounds jogados na média se torna maior.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
